@@ -14,7 +14,7 @@
 * [Technologies](#technologies)
 * [Top-directory layout](#top-directory-layout)
 * [License](#license)
-* [Author](#author)
+
 
 ## Background
 
